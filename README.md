@@ -7,4 +7,16 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
