@@ -19,4 +19,24 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
