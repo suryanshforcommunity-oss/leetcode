@@ -24,6 +24,7 @@ Leet code problems i solved
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
@@ -46,4 +47,12 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
