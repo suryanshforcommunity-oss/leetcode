@@ -26,6 +26,7 @@ Leet code problems i solved
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -54,6 +55,7 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0027-remove-element/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
