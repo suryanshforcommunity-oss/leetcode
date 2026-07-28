@@ -6,6 +6,7 @@ Leet code problems i solved
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0058-length-of-last-word](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@ Leet code problems i solved
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
