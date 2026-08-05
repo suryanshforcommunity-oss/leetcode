@@ -33,6 +33,7 @@ Leet code problems i solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Leet code problems i solved
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
