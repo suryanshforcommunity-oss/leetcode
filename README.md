@@ -16,6 +16,7 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0066-plus-one/) | Easy |
