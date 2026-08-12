@@ -31,6 +31,7 @@ Leet code problems i solved
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -70,6 +71,7 @@ Leet code problems i solved
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0027-remove-element/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
