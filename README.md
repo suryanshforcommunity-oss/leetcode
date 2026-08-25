@@ -37,6 +37,7 @@ Leet code problems i solved
 | [0035-search-insert-position](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -57,6 +58,7 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Leet code problems i solved
 | [0015-3sum](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
