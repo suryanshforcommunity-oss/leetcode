@@ -8,6 +8,7 @@ Leet code problems i solved
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0058-length-of-last-word](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Leet code problems i solved
 | [0027-remove-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
