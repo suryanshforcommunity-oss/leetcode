@@ -9,6 +9,7 @@ Leet code problems i solved
 | [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0058-length-of-last-word](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -85,6 +86,7 @@ Leet code problems i solved
 | [0031-next-permutation](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
