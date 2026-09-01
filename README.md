@@ -27,6 +27,7 @@ Leet code problems i solved
 | [0012-integer-to-roman](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Leet code problems i solved
 | [0088-merge-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -141,4 +143,24 @@ Leet code problems i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/suryanshforcommunity-oss/leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
